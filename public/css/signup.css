@@ -1,0 +1,50 @@
+header a {
+  float: right;
+  padding-top: 15px;
+  padding-right: 100px;
+  color: white;
+  text-decoration: none;
+}
+
+.heading {
+  font-weight: 300;
+  font-size: 30px;
+  margin-bottom: 24px;
+  font-family: Arial;
+}
+
+header {
+  background-color: blue;
+  height: 50px;
+  width: auto;
+  margin-top: -17px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+main {
+  padding-left: 450px;
+}
+
+.heading {
+  align: left;
+}
+
+.btn {
+  background-color: #0000FF;
+  width: 465px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  font-size: 22px;
+  font-family: Arial;
+}
+
+.inputfield {
+  width: 250px;
+  padding: 10px 200px 10px 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: Arial;
+}
